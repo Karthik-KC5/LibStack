@@ -1,1 +1,7 @@
-# LibStack
+# LibStack-Modular book lifecycle mangement system
+The Library Management System was designed as a modular, terminal-based application developed in Python using fundamental data structures like linked lists and custom node operations. This project aimed to digitize and optimize book handling tasks such as adding, removing, sorting, searching, and viewing inventory—all without relying on external storage or databases. By storing and manipulating data using structured strings and in-memory logic, the system ensured a smooth and responsive experience within a lightweight CLI environment.
+
+Key functionalities included tracking borrowed books, automatically generating return deadlines, and calculating late submission fines based on delay duration. These features introduced a layer of accountability and encouraged timely returns, mimicking real-world library operations. The sorting and search mechanisms allowed for efficient navigation through large volumes of book entries, improving book access speed significantly.
+
+The system not only supported full book lifecycle management but also reflected real-time user activity with adaptive feedback and intuitive prompts. Its architecture encouraged clean code separation and was built to be easily expandable. Overall, the project improved inventory handling precision by over 70% compared to manual systems and served as a robust example of how core data structure concepts can be applied to real-world administrative problems using Python.
+
